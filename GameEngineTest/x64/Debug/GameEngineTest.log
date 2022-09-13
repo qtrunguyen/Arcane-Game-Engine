@@ -1,0 +1,3 @@
+﻿  MainTest.cpp
+C:\Users\trung\source\repos\Arcane\GameEngineTest\MainTest.cpp(1,9): warning C4068: unknown pragma 'commment'
+  GameEngineTest.vcxproj -> C:\Users\trung\source\repos\Arcane\x64\Debug\GameEngineTest.exe
